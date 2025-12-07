@@ -13,7 +13,7 @@ This repository documents my hands-on learning and practical exercises across:
 - Process improvement  
 - Technical skill development  
 
-## WhatYou Will Find Here
+## What You Will Find Here
 
 - Labs write-ups  
 - Command notes and troubleshooting logs  
